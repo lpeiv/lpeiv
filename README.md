@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Prentice 👋
 
-<!--
-**lpeiv/lpeiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in data & analytics, building tools and pipelines that turn messy real-world data into something useful. Most of my day-to-day lives in Claude Code, DBT and Snowflake.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Building internal tooling and automation for data operations
+- 🤖 Exploring AI-assisted workflows for analytics work
+- 📊 Generally trying to make repeatable data work less repetitive
+
+## Tech I reach for
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
+
+**Workflow**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+## A bit more
+
+I work in the political and advocacy data space — donor analytics, contact list operations, email deliverability, and the occasional reconciliation project that turns into an archaeology dig.
+
+## Reach me
+
+- 💼 https://www.linkedin.com/in/prenticeeager/
+
+## GitHub Stats
+
+![Prentice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpeiv&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpeiv&layout=compact&theme=default)
+
+---
