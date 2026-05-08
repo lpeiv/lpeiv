@@ -35,9 +35,3 @@ I work in the political and advocacy data space — donor analytics, contact lis
 ## Reach me
 
 - 💼 https://www.linkedin.com/in/prenticeeager/
-
-## GitHub Stats
-
-![Prentice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpeiv&show_icons=true&include_all_commits=true&cache_seconds=86400)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpeiv&theme=default)
