@@ -38,8 +38,6 @@ I work in the political and advocacy data space — donor analytics, contact lis
 
 ## GitHub Stats
 
-![Prentice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpeiv&show_icons=true&theme=default)
+![Prentice's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lpeiv&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpeiv&layout=compact&theme=default)
-
----
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpeiv&theme=default)
